@@ -19,7 +19,7 @@ Programmer (noun): A machine that turns coffee into code.
 - :computer: I write code in C++ and do practice on Leetcode [https://leetcode.com/ayushdixit661/](https://leetcode.com/ayushdixit661/)
 - ✨ I also contribute on stackoverflow community [https://stackoverflow.com/users/9249743/ayush-dixit](https://stackoverflow.com/users/9249743/ayush-dixit)
 - ⚡ Intresting fact: My stackoverflow profile is in **top 23% of this year**
-- 📫 You can find me on linkedin [https://stackoverflow.com/users/9249743/ayush-dixit](https://stackoverflow.com/users/9249743/ayush-dixit)
+- 📫 You can find me on linkedin [www.linkedin.com/in/ayush-dixit-856067104](www.linkedin.com/in/ayush-dixit-856067104)
 - 💬 Ask me about anything and everything! If I didn't know maybe I will learn something new!
 - 📫 How to reach me: ayushdixit661@gmail.com
 - ⚡ Fun fact: I really love to talk people. I always motivate them ,and try to give them directions and some useful life advice. I’m very health conscious and always eat healthy food. 
