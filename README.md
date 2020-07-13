@@ -22,4 +22,4 @@ Programmer (noun): A machine that turns coffee into code.
 - 📫 You can find me on linkedin [https://stackoverflow.com/users/9249743/ayush-dixit](https://stackoverflow.com/users/9249743/ayush-dixit)
 - 💬 Ask me about anything and everything! If I didn't know maybe I will learn something new!
 - 📫 How to reach me: ayushdixit661@gmail.com
-- ⚡ Fun fact: I really love to talk people. I always motivate them ,and try give them directions useful and some life advice. I’m very health conscious and always eat healthy food. 
+- ⚡ Fun fact: I really love to talk people. I always motivate them ,and try to give them directions and some useful life advice. I’m very health conscious and always eat healthy food. 
