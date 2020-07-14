@@ -32,3 +32,19 @@ Programmer (noun): A machine that turns coffee into code.
 - 💬 Ask me about anything and everything! If I don't know maybe I will learn something new!
 - 📫 How to reach me: ayushdixit661@gmail.com
 - ⚡ Fun fact: I really love to interact with people. I always motivate them to persue their dreams. I’m health freak and mostly preferred fruits over pizza :pizza: . 
+
+```
+// it's up to you...
+     bool Success(int dedication,int persistence,bool passion ,bool discipline ,int consistency){
+		bool success;
+		 
+		if(dedication==0 || persistence ==0 || passion!=true || discipline!=true || consistency == 0)
+		success = false;
+		else{
+		success= true;
+		}
+		
+		return success;
+     }
+ // love it. make mistakes. learn. keep grinding. Happy coding    
+```
