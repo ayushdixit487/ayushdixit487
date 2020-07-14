@@ -46,5 +46,5 @@ Programmer (noun): A machine that turns coffee into code.
 		
 		return success;
      }
- // love it. make mistakes. learn. keep grinding. Happy coding    
+ // love it. make mistakes. learn. keep grinding & keep coding    
 ```
