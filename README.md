@@ -4,6 +4,9 @@ I'm Ayush a software engineer at TCS Gurgaon. I'm not only good at programming b
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+   
 - 🔭 I’m currently working on Apache Kafka Streaming pipeline.
 - 🌱 I’m currently improving my competative programming and DSA skills.
 - 👯 I’m intrested in keeping up-to-date with latest technological developments.
