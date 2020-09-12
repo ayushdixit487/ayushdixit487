@@ -38,7 +38,7 @@ Programmer (noun): A machine that turns coffee into code.
      bool Success(int dedication,int persistence,bool passion ,bool discipline ,int consistency){
 		bool success;
 		 
-		if(dedication==0 && persistence ==0 && passion!=true && discipline!=true && consistency == 0)
+		if(dedication==0 || persistence ==0 || passion==false || discipline==false || consistency == 0)
 		success = false;
 		else{
 		success= true;
