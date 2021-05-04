@@ -25,9 +25,10 @@ Data Engineer (noun): A person that transforms raw data into useful business det
 - ✨ I’m adaptable and transformable to learn latest technologies as per business needs
 - :computer: I optimize the application code and always maintain a good object oriented practices
 - 🌱 My hunger to learn and quick adoption of any tools and technologies makes me unique
-- :computer: I write code in C++ and do practice on Leetcode [https://leetcode.com/ayushdixit661/](https://leetcode.com/ayushdixit661/)
+- :computer: I write code in C++ and do practice on Leetcode also solved 400+ competitive coding problems[https://leetcode.com/ayushdixit661/](https://leetcode.com/ayushdixit661/)
 - ✨ I also contribute on stackoverflow community [https://stackoverflow.com/users/9249743/ayush-dixit](https://stackoverflow.com/users/9249743/ayush-dixit)
 - ⚡ Intresting fact: My stackoverflow profile is in **top 23% of 2020 with 11 badges and created impact on 125K peoples with helpful post**
+- ⚡ I’m two times Grand Finalist of **World's Largest Hackathon Smart India Hackathon in year 2017 and 2018 **
 - 📫 You can find me on linkedin [www.linkedin.com/in/ayush-dixit-856067104](www.linkedin.com/in/ayush-dixit-856067104)
 - 💬 Ask me about anything and everything! If I don't know maybe I will learn something new!
 - 📫 How to reach me: ayushdixit661@gmail.com
