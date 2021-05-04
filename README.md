@@ -3,18 +3,18 @@
  
 
 
-I'm Ayush, a software engineer at TCS Gurgaon. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-world problem by converting my thoughts and ideas into a working code. I have experience working with a range of different programming languages, frameworks  I am always looking for opportunities to work with innovation and creativity. I'm not only good at programming but also excellent at communication.
+I'm Ayush, a Data Engineer at TCS Gurgaon. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-world problem by converting my thoughts and ideas into a working code. I have experience working with a range of different programming languages, frameworks  I am always looking for opportunities to work with innovation and creativity. I'm not only good at programming but also excellent at communication.
 
 ```
-Programmer (noun): A machine that turns coffee into code.
+Data Engineer (noun): A person that transforms raw data into useful business details.
 ```
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
    
-- 🔭 I’m currently working on Apache Kafka Streaming pipeline
-- 🌱 I’m currently improving my competitive programming and DSA skills
+- 🔭 I’m currently working on Azure data pipelines
+- 🌱 I’m currently improving my data engineering skills.
 - ⚡ I’m intrested in keeping up-to-date with latest technological developments
 - :computer: I’m strong at CS fundamentals (data structure, algorithm)
 - 🌱 I’m comfortable working in agile enviornment
@@ -27,7 +27,7 @@ Programmer (noun): A machine that turns coffee into code.
 - 🌱 My hunger to learn and quick adoption of any tools and technologies makes me unique
 - :computer: I write code in C++ and do practice on Leetcode [https://leetcode.com/ayushdixit661/](https://leetcode.com/ayushdixit661/)
 - ✨ I also contribute on stackoverflow community [https://stackoverflow.com/users/9249743/ayush-dixit](https://stackoverflow.com/users/9249743/ayush-dixit)
-- ⚡ Intresting fact: My stackoverflow profile is in **top 23% of this year**
+- ⚡ Intresting fact: My stackoverflow profile is in **top 23% of 2020 with 11 badges **  and created impact on **125K peoples with helpful post**
 - 📫 You can find me on linkedin [www.linkedin.com/in/ayush-dixit-856067104](www.linkedin.com/in/ayush-dixit-856067104)
 - 💬 Ask me about anything and everything! If I don't know maybe I will learn something new!
 - 📫 How to reach me: ayushdixit661@gmail.com
