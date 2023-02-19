@@ -3,7 +3,7 @@
  
 
 
-I'm Ayush, a Software Engineer at TCS Gurgaon.I have a creative and focused mindset with a strong sense of ownership.I really enjoy solving real-world problem by converting my thoughts and ideas into a working code.I have experience working with a range of different programming languages, frameworks I am always looking for opportunities to work with innovation and creativity.I'm not only good at programming but also excellent at communication.
+I'm Ayush, a Data Engineer at Deloitte India.I have a creative and focused mindset with a strong sense of ownership.I really enjoy solving real-world problem by converting my thoughts and ideas into a working code.I have experience working with a range of different programming languages, frameworks I am always looking for opportunities to work with innovation and creativity.I'm not only good at programming but also excellent at communication.
 
 ```
 Programmer (noun): A machine that turns coffee into code
